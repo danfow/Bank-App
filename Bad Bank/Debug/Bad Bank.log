@@ -1,0 +1,10 @@
+﻿  teller_line.cpp
+C:\Users\newva\Desktop\School\Data structures\Project_1(Bad_Bank)\Bad Bank\Bad Bank\teller_line.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\newva\Desktop\School\Data structures\Project_1(Bad_Bank)\Bad Bank\Bad Bank\teller_line.cpp(98,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\newva\Desktop\School\Data structures\Project_1(Bad_Bank)\Bad Bank\Bad Bank\teller_line.cpp(100,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\newva\Desktop\School\Data structures\Project_1(Bad_Bank)\Bad Bank\Bad Bank\teller_line.cpp(115,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\newva\Desktop\School\Data structures\Project_1(Bad_Bank)\Bad Bank\Bad Bank\teller_line.cpp(137,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\newva\Desktop\School\Data structures\Project_1(Bad_Bank)\Bad Bank\Bad Bank\teller_line.cpp(153,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\newva\Desktop\School\Data structures\Project_1(Bad_Bank)\Bad Bank\Bad Bank\teller_line.cpp(205,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\newva\Desktop\School\Data structures\Project_1(Bad_Bank)\Bad Bank\Bad Bank\teller_line.cpp(208,22): warning C4018: '<': signed/unsigned mismatch
+  Bad Bank.vcxproj -> C:\Users\newva\Desktop\School\Data structures\Project_1(Bad_Bank)\Bad Bank\Debug\Bad Bank.exe
